@@ -1,6 +1,0 @@
----
-layout: post
-title: Welcome!
----
-
-Bienvenidos al semestre 2019-2.
