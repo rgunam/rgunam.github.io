@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'RGRCH'
-  url:            https://twitter.com/mdo
+  url:            
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
