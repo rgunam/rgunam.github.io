@@ -12,10 +12,7 @@ title: Welcome!
 
 Contact:
 
-E-mail: <RRamirezC@iingen.unam.mx>
-
-Phone: +52 55 56233600 Ext. 8847
-
-Office 12-130, Building 12, Engineering Institute
-
+E-mail: <RRamirezC@iingen.unam.mx>__
+Phone: +52 55 56233600 Ext. 8847__
+Office 12-130, Building 12, Engineering Institute__
 Ciudad Universitaria, Coyoacán 04510, Ciudad de México
